@@ -1,0 +1,7 @@
+ultralytics>=8.3,<9
+opencv-python>=4.8
+streamlit>=1.36
+PyYAML>=6.0
+pytest>=8.0
+onnx>=1.16
+onnxslim>=0.1.31
